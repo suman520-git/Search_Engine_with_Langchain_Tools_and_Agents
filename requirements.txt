@@ -20,7 +20,7 @@ openai
 langchain-groq
 duckduckgo-search
 pymupdf
-arxiv
+
 wikipedia
 mysql-connector-python
 SQLAlchemy
@@ -30,3 +30,4 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+streamlit
